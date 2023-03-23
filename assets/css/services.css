@@ -1,0 +1,25 @@
+body{
+    background-color: #f3f5fa!important;
+}
+.icon{
+    color: #47b2e4;
+    font-size: 36px;
+}
+hr{
+    width: 160px;
+}
+.card{
+    padding: 0 30px;
+}
+.card:hover{
+    transform: translateY(-10px);
+    transition: all .3s;
+}
+.card-title{
+    color: #37517e;
+    transition: ease-in-out 0.3s;
+}
+.card-title:hover{
+    color: #47b2e4;
+    cursor: pointer;
+}
